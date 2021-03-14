@@ -1,4 +1,0 @@
-MechTools Change log
-V0.9.1
-
-debug versions checker
