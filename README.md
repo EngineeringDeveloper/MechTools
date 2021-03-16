@@ -1,6 +1,6 @@
 Mech Tools ChangeLog
 
-V1.0.***********
+V1.1.0
 
 
 - Installation is now "per User" not per machine so should not require admin privileges if is NOT installed in the Program Files folder
