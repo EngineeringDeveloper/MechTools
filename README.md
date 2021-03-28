@@ -1,23 +1,16 @@
-Mech Tools ChangeLog
+MechTools ChangeLog
 
-V1.0.***********
+V1.2.0
 
+-- *** NEW Feature*** --
+Tolerance Stacking
 
-- Installation is now "per User" not per machine so should not require admin privileges if is NOT installed in the Program Files folder
-	* if you wish to not need admin privileges every update, remove any current installation first as they are needed to change the Program Files folder
-	*The Installer now defaults to a location accessible without permissions
-	
-- Fixed some data within the Fasteners.txt dataset where the M16 Values were the values for M14
-	- locally edited data will be reset on installation
-	
-- Added additional context on the Press fit calculation "only valid for thick walled elements" with additional information under query
+- Added Smart Window resizing
+- Added active changing of user preferences
 
-- Added Hoop Stress calculation for thick walled elements for pressfits
+- Some Minor memory handling and performance improvements
 
-- Added more Tooltips
-
-
-
+- Progress has started towards becoming a certified windows application
 
 Available features:
 
@@ -27,3 +20,4 @@ Calculation
 - Fastener Quantity
 - Hole and Shaft fits
 - ISO268-2 Tolerances
+- Tolerance Stacking
