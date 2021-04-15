@@ -1,16 +1,11 @@
 MechTools ChangeLog
 
-V1.2.0
+V1.3.0
 
 -- *** NEW Feature*** --
-Tolerance Stacking
+Key Frequencies
 
-- Added Smart Window resizing
-- Added active changing of user preferences
-
-- Some Minor memory handling and performance improvements
-
-- Progress has started towards becoming a certified windows application
+- Improved graph displays, created more consistent styling
 
 Available features:
 
@@ -20,4 +15,7 @@ Calculation
 - Fastener Quantity
 - Hole and Shaft fits
 - ISO268-2 Tolerances
+
+Analysis
 - Tolerance Stacking
+- Key Frequencies
